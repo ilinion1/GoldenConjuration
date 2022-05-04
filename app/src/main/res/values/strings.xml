@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Golden Conjuration</string>
+    <string name="info_1">Hello dear player!</string>
+    <string name="info_2">In this section you can \nfind out more about the conditions of the game!</string>
+    <string name="info_3">Guess in which cell the gems\n are and get your reward</string>
+    <string name="info_4">You will have 8 tries on normal difficulty\n and 6 on hard difficulty.</string>
+    <string name="info_5">Show me what capable of!\n Show your power!!</string>
+    <string name="settings_1">Choose your level of play:</string>
+    <string name="balls">Scored\n %1$s points</string>
+    <string name="lives">Remaining\n %1$s lives</string>
+    <string name="facebook_app_id">318360870403782</string>
+
+</resources>
